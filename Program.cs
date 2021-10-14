@@ -7,6 +7,7 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!"); //modificare
+            //branch test
         }
     }
 }
